@@ -1,4 +1,4 @@
-Bitcore Library
+Bitcore Library//karan
 =======
 THIS REPO HAVE BEEN MOVED TO BITCORE's MONO REPO. Check: 
 
